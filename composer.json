@@ -1,0 +1,21 @@
+{
+    "name": "vg/wordpress-plugin-framework",
+    "description": "Wordpress plugin framework to easily create a Wordpress plugin.",
+    "authors": [
+        {
+            "name": "Maarten van Gijssel",
+            "email": "maarten@vgijssel.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "vg\\": "src/"
+        }
+    }
+}
