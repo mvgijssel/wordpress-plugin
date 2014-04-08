@@ -1,0 +1,1 @@
+<script async defer src="https://static.factlink.com/lib/dist/factlink_loader.min.js?o=wordpress"></script>
