@@ -1,6 +1,6 @@
 <?php
 
-namespace vg;
+namespace vg\wordpress_framework_plugin;
 
 class Test
 {

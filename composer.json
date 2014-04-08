@@ -15,7 +15,7 @@
 
     "autoload": {
         "psr-4": {
-            "vg\\": "src/"
+            "vg\\wordpress_framework_plugin\\": "src/"
         }
     }
 }
